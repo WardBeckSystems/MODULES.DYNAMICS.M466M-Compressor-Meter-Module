@@ -1,0 +1,72 @@
+{
+ "code": "M466M",
+ "connector": "RTO-144",
+ "type": "M466M Meter Module",
+ "series": null,
+ "contacts": "13 contacts",
+ "verified": null,
+ "derived": false,
+ "variant_of": null,
+ "pins": [
+  {
+   "pin": "9",
+   "signal": "COMP TIE   1",
+   "kind": "control",
+   "pair": "B3",
+   "polarity": "-",
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M466M/M466M.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "10",
+   "signal": "COMP TIE   1",
+   "kind": "control",
+   "pair": "B3",
+   "polarity": "+",
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M466M/M466M.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "11",
+   "signal": "COMP TIE   2",
+   "kind": "control",
+   "pair": "B4",
+   "polarity": "+",
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M466M/M466M.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "12",
+   "signal": "VU METER",
+   "kind": "out",
+   "pair": "B2",
+   "polarity": "+",
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M466M/M466M.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "13",
+   "signal": "VU METER",
+   "kind": "out",
+   "pair": "B2",
+   "polarity": "-",
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M466M/M466M.rto144.json",
+   "page": 1
+  }
+ ],
+ "straps": [],
+ "power": [],
+ "sources": [
+  "Engineering/RTO-144/M466M/M466M.rto144.json"
+ ]
+}
