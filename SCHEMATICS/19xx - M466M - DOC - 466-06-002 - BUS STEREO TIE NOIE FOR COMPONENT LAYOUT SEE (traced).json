@@ -1,0 +1,103 @@
+{
+ "drawing": "Modules/DYNAMICS/M466M/SCHEMATICS/19xx - M466M - DOC - 466-06-002 - BUS STEREO TIE NOIE FOR COMPONENT LAYOUT SEE.png",
+ "version": 1,
+ "trace": "_traces/505355b186845b6c.svg",
+ "sheet": {
+  "number": "466-06-002",
+  "title": "",
+  "dtype": "06",
+  "type": "component layout",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [2000, 1414],
+  "mm": [431.8, 305.3],
+  "mm_per_px": 0.2159
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 13.0, 427.9, 298.2],
+ "outlines": {
+  "line": {"rings": 134, "straight": {"n": 1701, "mm": 5281.4}, "curved": {"n": 434, "mm": 445.7}},
+  "text": {"rings": 243, "straight": {"n": 2201, "mm": 2385.7}, "curved": {"n": 615, "mm": 746.6}},
+  "tb": {"rings": 21, "straight": {"n": 199, "mm": 275.9}, "curved": {"n": 41, "mm": 40.4}}
+ },
+ "circles": [
+  {"c": [277.4, 222.0], "r": 1.7, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [276.3, 200.9], "r": 1.4, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [
+  {"mm": [87.2, 200.3, 126.1, 239.2], "w": 38.9, "h": 38.9, "from": "ring", "words": ["VU", "METER"]},
+  {"mm": [322.6, 71.2, 335.3, 77.1], "w": 12.7, "h": 5.8, "from": "ring", "in_title_block": true},
+  {"mm": [336.2, 71.0, 348.7, 76.9], "w": 12.5, "h": 5.8, "from": "ring", "in_title_block": true},
+  {"mm": [289.5, 46.4, 321.7, 52.2], "w": 32.2, "h": 5.8, "from": "ring", "words": ["DRN: GEB"], "in_title_block": true},
+  {"mm": [289.5, 39.7, 321.7, 45.8], "w": 32.2, "h": 6.0, "from": "ring", "words": ["ENG"], "in_title_block": true},
+  {"mm": [289.3, 33.0, 321.7, 39.1], "w": 32.4, "h": 6.0, "from": "ring", "words": ["CKD"], "in_title_block": true},
+  {"mm": [289.3, 26.6, 321.7, 32.6], "w": 32.4, "h": 6.0, "from": "ring", "words": ["APP"], "in_title_block": true},
+  {"mm": [289.3, 13.4, 321.5, 25.7], "w": 32.2, "h": 12.3, "from": "ring", "words": ["SCALE"], "in_title_block": true},
+  {"mm": [322.3, 13.2, 335.1, 25.5], "w": 12.7, "h": 12.3, "from": "ring", "in_title_block": true}
+ ],
+ "text": {
+  "words": 34,
+  "lines": [
+   {"mm": [183.3, 228.6, 278.3, 235.6], "text": "COMPRESSOR STEREO TIE"},
+   {"mm": [100.2, 225.6, 110.3, 230.4], "text": "VU"},
+   {"mm": [93.9, 218.3, 119.2, 224.8], "text": "METER"},
+   {"mm": [90.9, 156.5, 96.9, 162.0], "text": "12"},
+   {"mm": [237.3, 157.2, 243.8, 161.5], "text": "10"},
+   {"mm": [161.1, 146.6, 174.9, 153.3], "text": "PuS"},
+   {"mm": [213.5, 147.5, 258.2, 152.7], "text": "BuS STEREO"},
+   {"mm": [237.1, 140.1, 250.2, 146.8], "text": "TIE"},
+   {"mm": [93.3, 115.3, 117.0, 121.8], "text": "NQIE:"},
+   {"mm": [98.5, 109.7, 111.4, 115.2], "text": "FOR"},
+   {"mm": [113.3, 109.0, 188.7, 116.0], "text": "CoMPONENT LAYout"},
+   {"mm": [183.5, 102.8, 198.2, 109.2], "text": "002"},
+   {"mm": [98.2, 102.3, 130.8, 108.8], "text": "SEE DWG"},
+   {"mm": [322.6, 71.2, 348.5, 76.8], "text": "ISSUE |DATE"},
+   {"mm": [372.6, 71.2, 392.1, 75.6], "text": "REVISION"},
+   {"mm": [417.6, 71.2, 426.6, 75.1], "text": "ApP"},
+   {"mm": [298.4, 57.0, 423.2, 65.2], "text": "WBS WARD-BECK SYSTEMS"},
+   {"mm": [290.2, 46.9, 312.8, 52.4], "text": "DRN: GEB"},
+   {"mm": [365.1, 43.2, 383.4, 48.7], "text": "M466M"},
+   {"mm": [289.5, 40.4, 298.8, 45.2], "text": "ENG"},
+   {"mm": [345.9, 35.4, 400.9, 42.4], "text": "COMPRESSOR METER"},
+   {"mm": [290.2, 34.1, 299.9, 38.9], "text": "CKD"},
+   {"mm": [290.2, 27.0, 299.2, 31.8], "text": "APP"},
+   {"mm": [348.0, 27.2, 400.9, 33.7], "text": "MODULE SCHEMATIC"},
+   {"mm": [298.2, 21.2, 312.2, 26.0], "text": "SCALE"},
+   {"mm": [408.3, 19.9, 421.2, 24.7], "text": "ISSUE"},
+   {"mm": [353.2, 16.2, 384.5, 21.5], "text": "466-02-003"}
+  ],
+  "scale": null
+ },
+ "title_block": {
+  "mm": [280.9, 13.9, 431.8, 82.8],
+  "from": "title-block words (training set)",
+  "text": [
+   "ISSUE |DATE",
+   "REVISION",
+   "ApP",
+   "WBS WARD-BECK SYSTEMS",
+   "DRN: GEB",
+   "M466M",
+   "ENG",
+   "COMPRESSOR METER",
+   "CKD",
+   "APP",
+   "MODULE SCHEMATIC",
+   "SCALE",
+   "ISSUE",
+   "466-02-003"
+  ]
+ },
+ "dots": [{"c": [223.9, 207.4], "r": 1.0, "lines": 0}],
+ "summary": [
+  "- **Sheet:** component layout 466-06-002, size B (assumed) 432 × 305 mm, 2000 × 1414 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–428 mm across, 13–298 mm up",
+  "- **Outlines:** line 134 rings, 1,701 straight (5,281 mm) / 434 curved (446 mm); text 243 rings, 2,201 straight (2,386 mm) / 615 curved (747 mm); tb 21 rings, 199 straight (276 mm) / 41 curved (40.4 mm)",
+  "- **Circles and arcs:** 2 circles, 0 arcs; largest r 1.7 @ (277.4, 222.0), r 1.4 @ (276.3, 200.9)",
+  "- **Closed boxes:** 9 (8 in the title block); named: VU METER",
+  "- **Dots (junctions):** 1",
+  "- **Words (OCR):** 34 in 27 lines: COMPRESSOR STEREO TIE · VU · METER · 12 · 10 · PuS · BuS STEREO · TIE · NQIE: · FOR · CoMPONENT LAYout · 002",
+  "- **Title block:** (281, 14)–(432, 83) mm: ISSUE |DATE · REVISION · ApP · WBS WARD-BECK SYSTEMS · DRN: GEB · M466M · ENG · COMPRESSOR METER · CKD · APP · MODULE SCHEMATIC · SCALE · ISSUE · 466-02-003"
+ ]
+}
