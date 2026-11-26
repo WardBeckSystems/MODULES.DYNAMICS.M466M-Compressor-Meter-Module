@@ -24,7 +24,7 @@ Wiki page: [M466M](../../../../PAGES/M466M.md)
 - **Words (OCR):** 41 in 32 lines: r-r · IU · ee · r-r · 22 · ca · COM · E:N · SI · BS · TE · CH
 - **Title block:** (294, 2)–(323, 27) mm: DAn: · CKD. · SCAlE · TOLS
 
-Every curve, box, word and wire group: [1976 - M466M - Meter Module (2) p1 (traced).json](../MANUALS/1976%20-%20M466M%20-%20Meter%20Module%20(2)%20p1%20(traced).json) (the CAD file: `1976 - M466M - Meter Module (2) p1 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M466M - Meter Module (2) p1 (traced).json](../MANUALS/1976%20-%20M466M%20-%20Meter%20Module%20%282%29%20p1%20%28traced%29.json) (the CAD file: `1976 - M466M - Meter Module (2) p1 (traced).dxf`).
 
 ### Page 2
 
@@ -37,7 +37,7 @@ Every curve, box, word and wire group: [1976 - M466M - Meter Module (2) p1 (trac
 - **Words (OCR):** 54 in 40 lines: vu · ST ERE · IE · ME TER · OF · 12 · US · BUS · ER E.O · IE · OT · OR OM
 - **Title block:** (93, 22)–(414, 69) mm: MOD. CKD. · USED ON · 'MAT · (lED WA.RC-SECK · ps LTD. · SYSTEMS · BS · ORN. · DATE · FIN ISH · SSO · TE · tKO · tp
 
-Every curve, box, word and wire group: [1976 - M466M - Meter Module (2) p2 (traced).json](../MANUALS/1976%20-%20M466M%20-%20Meter%20Module%20(2)%20p2%20(traced).json) (the CAD file: `1976 - M466M - Meter Module (2) p2 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M466M - Meter Module (2) p2 (traced).json](../MANUALS/1976%20-%20M466M%20-%20Meter%20Module%20%282%29%20p2%20%28traced%29.json) (the CAD file: `1976 - M466M - Meter Module (2) p2 (traced).dxf`).
 
 ## Full text
 

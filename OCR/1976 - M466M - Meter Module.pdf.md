@@ -30,7 +30,7 @@ Wiki page: [M466M](../../../../PAGES/M466M.md)
 - **Title block:** (179, 2)–(391, 54) mm: ISS MOD  CKD: · USED ON · MATL · WBS · WARD-BECK BYOTEMB LTD_ · DRNSEB · DATE EPIZ · M4GGM · FINISH · coMPOnENT LAYOUT · SCALE · TOLs ANG_ · 420 06
 - **Wiring (first pass):** 41 connected wire groups from 171 runs; labelled ends: 67 mm → COMPONENT, SIDE; 7 mm → coMPOnENT LAYOUT, 802, ISS_
 
-Every curve, box, word and wire group: [1976 - M466M - Meter Module p1 (traced).json](../MANUALS/1976%20-%20M466M%20-%20Meter%20Module%20p1%20(traced).json) (the CAD file: `1976 - M466M - Meter Module p1 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M466M - Meter Module p1 (traced).json](../MANUALS/1976%20-%20M466M%20-%20Meter%20Module%20p1%20%28traced%29.json) (the CAD file: `1976 - M466M - Meter Module p1 (traced).dxf`).
 
 ### Page 2
 
@@ -44,7 +44,7 @@ Every curve, box, word and wire group: [1976 - M466M - Meter Module p1 (traced).
 - **Title block:** (63, 7)–(367, 71) mm: DSSMOD ICKD · USED ON · MATZ . · WBS WAAD-BeCK BYBTEMs LTD_ · DRN · GEB · M4GG M · DATE SEPT 7 CCMPRESSOR METER · FIMISH · CKD RE · MODULE · [SCALE · 466
 - **Wiring (first pass):** 17 connected wire groups from 63 runs; labelled ends: 209 mm → 13; 11 mm → CCMPRESSOR, MODULE; 11 mm → METER, SCHEMATIC, IsS.; 10 mm → METER, SCHEMATIC, ~02.003, IsS.
 
-Every curve, box, word and wire group: [1976 - M466M - Meter Module p2 (traced).json](../MANUALS/1976%20-%20M466M%20-%20Meter%20Module%20p2%20(traced).json) (the CAD file: `1976 - M466M - Meter Module p2 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M466M - Meter Module p2 (traced).json](../MANUALS/1976%20-%20M466M%20-%20Meter%20Module%20p2%20%28traced%29.json) (the CAD file: `1976 - M466M - Meter Module p2 (traced).dxf`).
 
 ## Full text
 
