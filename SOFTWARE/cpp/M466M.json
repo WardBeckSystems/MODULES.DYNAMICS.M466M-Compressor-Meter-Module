@@ -1,0 +1,19 @@
+{
+ "clap": {
+  "id": "ca.wbsps.m466_compressor_limiter",
+  "name": "Ward-Beck M466 Compressor / Limiter",
+  "strings": [
+   "ca.wbsps.m466_compressor_limiter",
+   "Ward-Beck M466 Compressor / Limiter",
+   "Ward-Beck Systems Preservation Society",
+   "https://wbsps.ca",
+   "",
+   "https://wbsps.ca/contact",
+   "1.0.0",
+   "Dual-detector broadcast compressor and brickwall peak limiter with DS sibilance sidechain control"
+  ]
+ },
+ "code": "M466M",
+ "suite_index": 15,
+ "source": "2030.env/vst/M466_Compressor_Limiter"
+}
