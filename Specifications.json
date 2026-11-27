@@ -1,0 +1,99 @@
+{
+ "module": "M466M",
+ "title": "M466",
+ "source": {
+  "file": "MANUALS/19xx - M466M - DOC - WBS sales 25.jpg",
+  "page": 1
+ },
+ "ocr_quality": 0.91,
+ "read": "OCR of the technical data sheet; usual OCR slips put right, the rest as read: check against the page",
+ "specifications": [
+  {
+   "name": "Recovery time",
+   "key": "recovery_time",
+   "text": "(From 10 dB of gain reduction)",
+   "quantities": [
+    {
+     "value": 10,
+     "unit": "dB"
+    }
+   ]
+  },
+  {
+   "name": "Compressor",
+   "key": "compressor",
+   "text": "0.2 to 5s Limiter: 0.1 to 5s"
+  },
+  {
+   "name": "Dees sing",
+   "key": "dees_sing",
+   "text": "Operates as frequency dependent compressor dB point adjustable from kHz to kHz"
+  },
+  {
+   "name": "Phasing",
+   "key": "phasing",
+   "text": "Low number terminals of input and output are in phase."
+  },
+  {
+   "name": "Metering",
+   "key": "metering",
+   "text": "Provision for externa] VU meter to mon - itor gain reduction or output Teve]"
+  },
+  {
+   "name": "Power requirements",
+   "key": "power_requirement",
+   "text": "+25 volts dc, 100 mA maximum",
+   "quantities": [
+    {
+     "value": 25,
+     "unit": "volts dc"
+    },
+    {
+     "value": 100,
+     "unit": "mA"
+    }
+   ]
+  },
+  {
+   "name": "Ambient temperature",
+   "key": "ambient_temperature",
+   "text": "Dimensions: 0 to 60 degrees Celsius 1.6\" wide X 7\" high 6.5\" deep (41 mm 178 Mm X 165 mm)",
+   "quantities": [
+    {
+     "from": 0,
+     "to": 60,
+     "unit": "degrees Celsius"
+    },
+    {
+     "value": 1.6,
+     "unit": "\""
+    },
+    {
+     "value": 7,
+     "unit": "\""
+    },
+    {
+     "value": 6.5,
+     "unit": "\""
+    },
+    {
+     "value": 41,
+     "unit": "mm"
+    },
+    {
+     "value": 178,
+     "unit": "Mm"
+    },
+    {
+     "value": 165,
+     "unit": "mm"
+    }
+   ]
+  },
+  {
+   "name": "Accessories",
+   "key": "accessories",
+   "text": "M466m Meter Module_ M467 Noise Gate and Meter Module"
+  }
+ ]
+}

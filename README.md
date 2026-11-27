@@ -13,6 +13,27 @@ Ward-Beck Systems M466M, 1976|9. Wiki page: [M466M on WBSps.ca](https://wardbeck
 | [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 3 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 22 |
 
+<!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
+
+**On the WBSps forum (2006|39 - 2014|47):** [7 topics](FORUM.md): what owners and technicians said about it.
+
+## Specifications
+
+From the technical data sheet: [19xx - M466M - DOC - WBS sales 25.jpg](MANUALS/19xx%20-%20M466M%20-%20DOC%20-%20WBS%20sales%2025.jpg) page 1 (read by OCR; check against the page). As data: [`Specifications.json`](Specifications.json).
+
+| | |
+|---|---|
+| **Recovery time** | (From 10 dB of gain reduction) |
+| **Compressor** | 0.2 to 5s Limiter: 0.1 to 5s |
+| **Dees sing** | Operates as frequency dependent compressor dB point adjustable from kHz to kHz |
+| **Phasing** | Low number terminals of input and output are in phase. |
+| **Metering** | Provision for externa] VU meter to mon - itor gain reduction or output Teve] |
+| **Power requirements** | +25 volts dc, 100 mA maximum |
+| **Ambient temperature** | Dimensions: 0 to 60 degrees Celsius 1.6&quot; wide X 7&quot; high 6.5&quot; deep (41 mm 178 Mm X 165 mm) |
+| **Accessories** | M466m Meter Module_ M467 Noise Gate and Meter Module |
+
+<!-- /module data -->
+
 ## Photos
 
 _Photographs of the module itself: front, back, inside, racked._
