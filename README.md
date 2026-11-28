@@ -4,13 +4,13 @@ Ward-Beck Systems M466M, 1976|9. Wiki page: [M466M on WBSps.ca](https://wardbeck
 
 | Folder | What is in it | Files |
 |---|---|---|
-| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 21 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 2 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 6 |
-| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 20 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 9 |
-| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 2 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 5 |
+| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 20 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 1 |
+| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 5 |
+| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 19 |
+| [PHOTOS/](PHOTOS/) | photographs of the module | 8 |
+| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 4 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 20 |
 
 <!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
@@ -51,13 +51,9 @@ _Electrical drawings: schematics (-02-), functional diagrams (-01-), component l
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKRnFtS2JJUHdNY1k/view?resourcekey=0-wugHIviCmifLgZ09yTkQ2w" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKRnFtS2JJUHdNY1k&resourcekey=0-wugHIviCmifLgZ09yTkQ2w" width="240" alt="1976 - M466M - BUS STEREO TIE NQIE FOR COMPONENT LAYOUT SEE.jpg"></a><br><sub>1976|9 · BUS STEREO TIE NQIE FOR COMPONENT LAYOUT SEE · <a href="SCHEMATICS/1976%20-%20M466M%20-%20BUS%20STEREO%20TIE%20NQIE%20FOR%20COMPONENT%20LAYOUT%20SEE%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKNjFWSlVON2JYaU0/view?resourcekey=0-xfZZvsKXNLVA_UbE_BD3uw" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKNjFWSlVON2JYaU0&resourcekey=0-xfZZvsKXNLVA_UbE_BD3uw" width="240" alt="1976 - M466M - Component Layout.jpg"></a><br><sub>1976|9 · Component Layout · <a href="SCHEMATICS/1976%20-%20M466M%20-%20Component%20Layout%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1yIgmgwXKxjsGfee85p3Ky_mi2Xk7Z7cd/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1yIgmgwXKxjsGfee85p3Ky_mi2Xk7Z7cd" width="240" alt="19xx - M466M - DOC - 466-06-002 - BUS STEREO TIE NOIE FOR COMPONENT LAYOUT SEE.png"></a><br><sub>19xx - M466M - DOC - 466-06-002 - BUS STEREO TIE NOIE FOR COMPONENT LAYOUT SEE · <a href="SCHEMATICS/19xx%20-%20M466M%20-%20DOC%20-%20466-06-002%20-%20BUS%20STEREO%20TIE%20NOIE%20FOR%20COMPONENT%20LAYOUT%20SEE%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
-Not on Google Drive yet: `M466M - Component Layout.jpg`, `M466M - Schematic.jpg`
-
 ## Pinouts
 
 _Pinouts: the RTO-144 edge connector (connection sheets, connector layouts and rear views, strapping), and the pinout / connections drawings made from them. The module root `RTO.json` lists every contact._
-
-Not on Google Drive yet: `M466M - RTO-144 Connections.pdf`
 
 ## RTO-144 pinout
 
@@ -89,12 +85,10 @@ _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the modu
 - [1976 - M466M - Meter Module p2.kicad_sch](KICAD/1976%20-%20M466M%20-%20Meter%20Module%20p2.kicad_sch)
 - [M466M - Schematic.kicad_sch](KICAD/M466M%20-%20Schematic.kicad_sch)
 - [M466M.kicad_sym](KICAD/M466M.kicad_sym)
-- [index.html](KICAD/index.html)
 
 ## Software
 
 - [cpp](SOFTWARE/cpp)
-- [index.html](SOFTWARE/index.html)
 
 ---
 Archive: Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)
