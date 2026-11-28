@@ -1,6 +1,6 @@
 # M466M Compressor Meter Module · Dynamics
 
-Ward-Beck Systems M466M, 1976|9. Wiki page: [M466M on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M466M.html)
+Ward-Beck Systems M466M, 1976|9. Wiki page: [M466M on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.DYNAMICS.M466M-Compressor-Meter-Module/)
 
 | Folder | What is in it | Files |
 |---|---|---|

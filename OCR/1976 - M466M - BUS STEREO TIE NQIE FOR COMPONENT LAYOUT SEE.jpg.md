@@ -1,5 +1,5 @@
 # 1976 - M466M - BUS STEREO TIE NQIE FOR COMPONENT LAYOUT SEE.jpg
-Wiki page: [M466M](../../../../PAGES/M466M.md)
+Wiki page: [M466M](../)
 
 
 - **Year:** 1976 (found in this file: "DATE SEPT 76")

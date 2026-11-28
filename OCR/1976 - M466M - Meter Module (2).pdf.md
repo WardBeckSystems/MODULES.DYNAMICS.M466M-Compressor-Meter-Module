@@ -1,5 +1,5 @@
 # 1976 - M466M - Meter Module (2).pdf
-Wiki page: [M466M](../../../../PAGES/M466M.md)
+Wiki page: [M466M](../)
 
 
 - **Year:** 1976 (module estimate (labelled))

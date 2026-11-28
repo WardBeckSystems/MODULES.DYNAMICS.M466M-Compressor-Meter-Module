@@ -1,5 +1,5 @@
 # M466M - Component Layout.jpg
-Wiki page: [M466M](../../../../PAGES/M466M.md)
+Wiki page: [M466M](../)
 
 
 - **Year:** unknown (title block (read by eye))

@@ -1,5 +1,5 @@
 # 1976 - M466M - wbsps - module - m466m meter 003_small.jpg
-Wiki page: [M466M](../../../../PAGES/M466M.md)
+Wiki page: [M466M](../)
 
 
 - **Year:** 1976 (module estimate (labelled))

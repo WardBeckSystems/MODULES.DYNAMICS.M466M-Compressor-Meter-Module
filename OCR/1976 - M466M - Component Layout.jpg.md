@@ -1,5 +1,5 @@
 # 1976 - M466M - Component Layout.jpg
-Wiki page: [M466M](../../../../PAGES/M466M.md)
+Wiki page: [M466M](../)
 
 
 - **Year:** 1976 (found in this file: "DATE SEPT76")
